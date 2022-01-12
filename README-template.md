@@ -12,7 +12,6 @@ This is my first challenge done with Frontend mentor
 
 ### Screenshot
 
-![desktop]screen-shot-finished\screen-shot1.png)
 ![mobile] (screen-shot-finished\screen-shot2.png)
 
 ### Links
