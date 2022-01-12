@@ -12,7 +12,7 @@ This is my first challenge done with Frontend mentor
 
 ### Screenshot
 
-![mobile!] (screen-shot-finished\screen-shot2.png)
+![mobile!] (screen-shot-finished\screen-shot2.jpg)
 
 ### Links
 
