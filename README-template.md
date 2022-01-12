@@ -12,8 +12,8 @@ This is my first challenge done with Frontend mentor
 
 ### Screenshot
 
-![](C:\Users\mm719\OneDrive\سطح المكتب\profile-card-component-main\screen-shot-finished/screen-shot1.png)
-![](C:\Users\mm719\OneDrive\سطح المكتب\profile-card-component-main\screen-shot-finished/screen-shot2.png)
+![(C:\Users\mm719\OneDrive\سطح المكتب\profile-card-component-main\screen-shot-finished/screen-shot1.png)]
+![(C:\Users\mm719\OneDrive\سطح المكتب\profile-card-component-main\screen-shot-finished/screen-shot2.png)]
 
 ### Links
 
