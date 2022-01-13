@@ -12,8 +12,8 @@ This is my first challenge done with Frontend mentor
 
 ### Screenshot
 
-![mobile!] (https://user-images.githubusercontent.com/74330272/149237785-d5fdbdaf-5a8d-4ffb-ab7a-d8dc06670ae4.jpg)
-![desktop!](https://user-images.githubusercontent.com/74330272/149237791-2f65aba8-c46e-4799-832d-2748b685f764.jpg)
+![mobile!](https://user-images.githubusercontent.com/74330272/149347471-205082b7-f2ef-48ac-b50b-4d66ab59fc0b.png)
+![desktop!](https://user-images.githubusercontent.com/74330272/149347404-35467fe7-8df1-4577-b46f-4d94aff07957.png)
 
 ### Links
 
